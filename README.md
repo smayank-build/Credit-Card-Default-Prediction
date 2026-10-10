@@ -129,13 +129,6 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 
 ---
 
-## **License**
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## **Author**
 
-- **Jebin Larosh Jervis**  
-- Connect with me: [LinkedIn](https://www.linkedin.com/in/jebin-larosh-jervis-a52938123/) 
+- **Mayank Sharma**  
